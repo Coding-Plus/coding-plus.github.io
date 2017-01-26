@@ -1,4 +1,4 @@
-## Welcome to Coding Plus!
+# Welcome to Coding Plus!
 
 Coding Plus is an entirely student-run organization focused on advancing computer science education.
 
