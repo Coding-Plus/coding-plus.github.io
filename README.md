@@ -1,10 +1,8 @@
 ## Welcome to Coding Plus!
 
-You can use the [editor on GitHub](https://github.com/Coding-Plus/coding-plus.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Coding Plus is an entirely student-run organization focused on advancing computer science education. We are based in Media, PA and run numerous camps at the Middletown Free Library located at 21 Pennell Rd, Lima, PA 19037.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Calendar
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,10 +26,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Coding-Plus/coding-plus.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Feel free to like us on [Facebook](https://www.facebook.com/CodingPlusX/) or follow us on [Twitter](https://twitter.com/Coding_Plus)!
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Want to reach out to us? Email us at codingplusx@gmail.com
