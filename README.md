@@ -1,6 +1,8 @@
 ## Welcome to Coding Plus!
 
-Coding Plus is an entirely student-run organization focused on advancing computer science education. We are based in Media, PA and run numerous camps at the Middletown Free Library located at 21 Pennell Rd, Lima, PA 19037.
+Coding Plus is an entirely student-run organization focused on advancing computer science education.
+
+We are based in Media, PA and run numerous camps at the Middletown Free Library located at 21 Pennell Rd, Lima, PA 19037.
 
 ### Calendar of Events
 
