@@ -13,4 +13,4 @@ We are based in Media, PA and run numerous camps at the Middletown Free Library 
 
 Feel free to like us on [Facebook](https://www.facebook.com/CodingPlusX/) or follow us on [Twitter](https://twitter.com/Coding_Plus)!
 
-Want to reach out to us? Email us at codingplusx@gmail.com
+Want to reach out to us? <a href="mailto:codingplusx@gmail.com">Email us!</a>
